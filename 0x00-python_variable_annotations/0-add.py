@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-""" Adds two floating-point numbers """
+""" Module Documentation """
 
 def add(a: float, b: float) -> float:
-    """ float sum of two input numbers. """
+    """ func doc """
     return a + b
